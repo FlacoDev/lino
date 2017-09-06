@@ -1,4 +1,4 @@
-Lino the Pingdummbot
+Lino the Pingdumbot
 ====
 
-L1n0 is a *Pingdummbot*; which means that L1n0 is just a simple and dummy robot based on a PIC32-Pinguino-MX220.
+Lino is a useless robot, based on a PIC32-Pinguino-MX220 prototyping board, using ultrasonics modules and a simple frame with two gear motors.
