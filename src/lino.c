@@ -6,7 +6,7 @@
 #define echoPin_right 5
 
 #define rightMotor 8
-#define leftMotor  9
+#define leftMotor  11
 
 //directions
 #define FORWARD 1
